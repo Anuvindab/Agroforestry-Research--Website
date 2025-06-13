@@ -3,23 +3,22 @@
 # Documentation: https://docs.hugoblox.com/
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
-# Appearance
 
+# Appearance
 appearance:
   theme_day: minimal
   theme_night:
   font: native
   font_size: L
 
-# SEO
-
+# SEO and Social
 marketing:
   seo:
     site_type: Organization
-    local_business_type: ''
-    org_name: ''
-    description: 'A highly-customizable Hugo research group theme powered by Wowchemy website builder.'
-    twitter: 'GetResearchDev'
+    local_business_type: EducationalOrganization
+    org_name: Agroforestry Research Group
+    description: "Official website for the research project on electronic vouchers for climate smart agriculture in Sierra Leone."
+    twitter: anuvindab
   analytics:
     google_analytics: ''
     baidu_tongji: ''
@@ -30,7 +29,6 @@ marketing:
     baidu: ''
 
 # Site header
-
 header:
   navbar:
     enable: true
@@ -39,13 +37,12 @@ header:
     show_language: false
     show_day_night: true
     show_search: true
-    highlight_active_link: false
+    highlight_active_link: true
 
 # Site footer
-
 footer:
   copyright:
-    notice: '© {year} Me. This work is licensed under {license}'
+    notice: '© {year} Agroforestry Research Group. This work is licensed under {license}'
     license:
       enable: true
       allow_derivatives: false
@@ -53,26 +50,24 @@ footer:
       allow_commercial: false
 
 # Localization
-
 locale:
   date_format: 'Jan 2, 2006'
   time_format: '3:04 PM'
   address_format: en-us
 
 # Site features
-
 features:
   syntax_highlighter:
-    enable: false
+    enable: true
     extra_languages:
       - r
       - latex
   math:
-    enable: false
+    enable: true
   privacy_pack:
     enable: false
   repository:
-    url: 'https://github.com/<username>/<repository>'
+    url: 'https://github.com/Anuvindab/Agroforestry-Research--Website'
     content_dir: content
     branch: main
   avatar:
@@ -80,16 +75,6 @@ features:
     shape: circle
   comment:
     provider: ''
-    disqus:
-      shortname: ''
-      show_count: true
-    commento:
-      url: ''
-    giscus:
-      repo: ''
-      repo_id: ''
-      category: ''
-      category_id: ''
   search:
     provider: wowchemy
     algolia:
@@ -103,7 +88,6 @@ features:
     zoom: 15
 
 # Extensions
-
 extensions:
   decap_cms:
     branch: main
@@ -112,7 +96,6 @@ extensions:
     enable: true
 
 # Citation style
-
 publications:
   date_format: January 2006
   citation_style: apa
