@@ -17,6 +17,11 @@ organizations:
   - name: Florida Gulf Coast University
     url: 'https://www.fgcu.edu/'
 
+# Avatar image
+avatar:
+  filename: Festus.png
+  folder: media
+
 # Short bio (displayed in user profile at end of posts)
 bio: Researching climate-smart agriculture, forest participation, and e-voucher systems across Sub-Saharan Africa.
 
