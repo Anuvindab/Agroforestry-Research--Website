@@ -1,79 +1,71 @@
 ---
 # Display name
-title: Alice Wu 吳恩達
+title: Dr. Vinod Kumar Ahuja
 
 # Full name (for SEO)
-first_name: Alice
-last_name: Wu
+first_name: Vinod
+last_name: Ahuja
 
 # Username (this should match the folder name)
 authors:
-  - 吳恩達
+  - vinodahuja
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: Assistant Professor, Computing and Data Science
 
 # Organizations/Affiliations
 organizations:
-  - name: Stanford University
-    url: ''
+  - name: Florida Gulf Coast University
+    url: 'https://www.fgcu.edu/'
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests include open source software collaboration and volunteer performance in citizen science projects.
 
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Open Collaboration
+  - Citizen Science
+  - Open Source Software
+  - Data Science
+  - Requirements Engineering
 
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+    - course: PhD in Information Technology
+      institution: University of Nebraska-Omaha
+    - course: MS in Management Information Systems
+      institution: University of Nebraska-Omaha
+    - course: MBA
+      institution: Quaid-i-Azam University, Islamabad
+    - course: Diploma in Computer Science
+      institution: Quaid-i-Azam University, Islamabad
+    - course: BBA
+      institution: Institute of Business Administration, Karachi
+    - course: Associateship in Banking
+      institution: Institute of Bankers Pakistan
 
-# Social/Academic Networking
-# For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
-#   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
-#   form "mailto:your-email@example.com" or "#contact" for contact widget.
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'mailto:test@example.org'
-  - icon: twitter
-    icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
-  - icon: google-scholar
-    icon_pack: ai
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+    link: 'mailto:vahuja@fgcu.edu'
+  - icon: website
+    icon_pack: fas
+    link: 'https://www.fgcu.edu/directory/vahuja'
   - icon: github
     icon_pack: fab
-    link: https://github.com/gcushen
-# Link to a PDF of your resume/CV from the About widget.
-# To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
-# - icon: cv
-#   icon_pack: ai
-#   link: files/cv.pdf
+    link: 'https://github.com/'
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: ''
+email: 'vahuja@fgcu.edu'
 
 # Organizational groups that you belong to (for People widget)
-#   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Researchers
-  - Visitors
+  - Core Team
 ---
 
-吳恩達 is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Dr. Vinod Kumar Ahuja is an Assistant Professor in the Department of Computing and Software Engineering at Florida Gulf Coast University. He received his PhD in Information Technology and MS in MIS from the University of Nebraska-Omaha. With over 14 years of banking industry experience, he transitioned to academia with a passion for research in open collaboration and citizen science.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+His research focuses on how organizations engage in open-source software creation and how volunteers contribute to citizen science projects. He regularly publishes and reviews for leading conferences such as ICIS, AMCIS, CSCW, and IEEE RE. Dr. Ahuja is an active member of AIS and INFORMS and serves as a maintainer for the Linux Foundation’s CHAOSS project.
+
