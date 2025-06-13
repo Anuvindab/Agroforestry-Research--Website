@@ -21,6 +21,11 @@ organizations:
   - name: Florida Gulf Coast University
     url: 'https://www.fgcu.edu/'
 
+# Avatar image
+avatar:
+  filename: Vinod.png
+  folder: media
+
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include open source software collaboration and volunteer performance in citizen science projects.
 
@@ -68,4 +73,3 @@ user_groups:
 Dr. Vinod Kumar Ahuja is an Assistant Professor in the Department of Computing and Software Engineering at Florida Gulf Coast University. He received his PhD in Information Technology and MS in MIS from the University of Nebraska-Omaha. With over 14 years of banking industry experience, he transitioned to academia with a passion for research in open collaboration and citizen science.
 
 His research focuses on how organizations engage in open-source software creation and how volunteers contribute to citizen science projects. He regularly publishes and reviews for leading conferences such as ICIS, AMCIS, CSCW, and IEEE RE. Dr. Ahuja is an active member of AIS and INFORMS and serves as a maintainer for the Linux Foundation’s CHAOSS project.
-
